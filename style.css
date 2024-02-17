@@ -6,10 +6,11 @@
 	 font-family:  'Brush Script MT', cursive;
 }
 h1{
+    position: absolute;
     font-size: 50px;
     margin-top: -20px;
     margin-bottom: 100px;
-	left:50%;
+    left:50%;
 }
  #card {
 	 position: absolute;
